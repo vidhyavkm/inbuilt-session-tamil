@@ -1,0 +1,87 @@
+Built in functions:
+
+Array and string Methods:
+
+1. number Methods
+2. boolean Methods
+3. string Methods
+4. Array methods
+5. date methods
+6. math methods
+
+Number methods:
+
+- toexponential=> it gives axp math expression of a number 
+- tofixed => .12345 => tofixed(2)=> limiting the decimal values
+- tolocalestring => it returns the date and time
+- toprecision => it gives of the format of the number, returns exp or fixed decimal points.
+- tostring => it returns a string.
+- valueof=> returns the value.
+
+boolean methods:
+
+- tosource => used in ES1
+- tostring
+- valueof
+
+string method:
+
+- length
+- charAt=> it returns the character of the specified index
+- slice => it will cut the needed index.2 optional parameters
+- indexof => first occurence
+- touppercase
+- tolowercase
+- substring=> it is have 2 parameters , includes the first and excludes the last.  
+- split=> it splits the string or number
+- trimstart and trimend=> it removes the white space from a string
+- match
+- concat=> joins two string
+- lastindexof => last occurence
+- charcodeat=> unicode based on UTF 0 to based on oits index value.
+
+array methods:
+
+- sort 
+- splice=> adds or removes the elem in an array
+- join
+- pop => removes the last element
+- push => add the last ELEM
+- shift => removes the first index
+- unshift => adds the first index
+- map
+- reduce
+- filter
+- foreach
+- delete
+
+date method:
+
+- getminutes
+- getdate
+- gettime
+- settime
+
+
+math methods:
+
+- pi 
+- pow
+- floor => rounds a number DOWN to the nearest 
+- ceil => rounds a number UP to the nearest 
+- random
+- round => rounds the nearest 
+- min 
+- max
+- sqrt
+- cbrt
+- acos
+- cos
+- abs 
+
+
+
+
+
+
+
